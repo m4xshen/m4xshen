@@ -1,7 +1,7 @@
 <h2 align="center">👨‍💻 About Me</h2>
 <p align="center">
   <samp>
-  Hi, my name is Max Shen, a Taiwanese college student. I love to learn new things about<br>computer science by making <a href="https://m4xshen.me/projects/">projects</a>. I also share my learning journey on my <a href="https://m4xshen.me">blog</a><br> to help and inspire others!<br><br>
+  Hi, my name is Max Shen, a Taiwanese college student. I am passionate about learning new things about<br>computer science by making <a href="https://m4xshen.me/projects/">projects</a>. I also share my learning journey on my <a href="https://m4xshen.me">blog</a><br> to help and inspire others!<br><br>
   </samp>
 </p>
 
