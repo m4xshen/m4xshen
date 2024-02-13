@@ -1,7 +1,7 @@
 <h2 align="center">👨‍💻 About Me</h2>
 <p align="center">
   <samp>
-  Hi, I'm Max Shen, an open source developer and generative artist from Taiwan. I am passionate about solving problems with software about Neovim and web. I also write articles on my <a href="https://m4xshen.dev">dev blog</a> to share what I've learned.<br><br>
+  Hi, I'm Max Shen, an open source and web developer from Taiwan. I am passionate about solving problems with software about Neovim and web. I also write articles on my <a href="https://m4xshen.dev">dev blog</a> to share what I've learned.<br><br>
   </samp>
 </p>
 
